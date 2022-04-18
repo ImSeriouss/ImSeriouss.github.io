@@ -1,0 +1,26 @@
+body {
+  background: #131513;
+}
+h1 {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  color: #E2E2DE
+}
+p {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  color: #E2E2DE;
+  font-size: 125%
+}
+h5 {
+  font-family:'Comfortaa', cursive;
+  text-align: center;
+  color: #E2E2DE;
+  font-size: 150%
+}
+h6 {
+  font-family: 'Comfortaa', cursive;
+  text-align: center;
+  color: #E2E2DE;
+  font-size: 100%
+}
